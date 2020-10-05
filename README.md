@@ -1,1 +1,1 @@
-# kaggle_titanic_competition
+# Kaggle_Titanic_Competition
